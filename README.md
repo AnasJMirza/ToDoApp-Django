@@ -1,5 +1,11 @@
-# How to run 
+# Multiuser TODO Application in Django-Python 🔥 
 
-## Run this command in the project folder where manage.py located
+## How to run
 
-### python manage.py runserver
+### Activate Virtual Environment
+
+     venv\Scripts\activate
+
+### Run Project
+
+    python manage.py runserver
